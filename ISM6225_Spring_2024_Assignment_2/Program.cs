@@ -100,7 +100,6 @@ namespace Assignment_2
     }
 }
 
-// Self-Reflection: I learned how to use cyclic sorting to identify missing elements efficiently, placing numbers in their correct positions without extra space.
 
         // Question 2: Sort Array by Parity
         public static int[] SortArrayByParity(int[] nums)
@@ -145,7 +144,6 @@ namespace Assignment_2
     }
 }
 
-// Self-Reflection: I improved my understanding of using two pointers to segregate even and odd numbers in a single pass with optimal time complexity.
 
         // Question 3: Two Sum
         public static int[] TwoSum(int[] nums, int target)
@@ -181,7 +179,6 @@ namespace Assignment_2
     }
 }
 
-// Self-Reflection: I gained insight into utilizing a hash map to solve the two-sum problem in linear time.
 
         // Question 4: Find Maximum Product of Three Numbers
         public static int MaximumProduct(int[] nums)
@@ -206,7 +203,6 @@ namespace Assignment_2
     }
 }
 
-// Self-Reflection: Sorting helped me see how to calculate the maximum product by comparing products of the largest numbers and the smallest negatives.
 
         // Question 5: Decimal to Binary Conversion
         public static string DecimalToBinary(int decimalNumber)
@@ -242,7 +238,6 @@ namespace Assignment_2
     }
 }
 
-// Self-Reflection: I practiced converting a decimal number to binary using simple modulus operations
 
         // Question 6: Find Minimum in Rotated Sorted Array
         public static int FindMin(int[] nums)
@@ -288,7 +283,6 @@ namespace Assignment_2
     }
 }
 
-// Self-Reflection: I enhanced my understanding of binary search in a rotated sorted array to find the minimum element efficiently.
 
 
         // Question 7: Palindrome Number
@@ -324,7 +318,6 @@ namespace Assignment_2
     }
 }
 
-// Self-Reflection: I learned an efficient way to check if a number is a palindrome without converting it to a string.
 
         // Question 8: Fibonacci Number
         public static int Fibonacci(int n)
@@ -371,7 +364,6 @@ namespace Assignment_2
     }
 }
 
-// Self-Reflection: I used my understanding of using a loop to calculate Fibonacci numbers, which is faster than using recursion
 
     }
 }
